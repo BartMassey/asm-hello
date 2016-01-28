@@ -75,8 +75,8 @@ be either pointers or integers. The result
 is returned in `%rax`: if the result is in the range
 -4095..-1 it is an error number.
 
-Confusingly, the correct syscall numbers can be found in
-`/usr/include/x86_64-linux-gnu/asm/unistd_32.h`.
+The Linux x86-64 syscall numbers can be found in
+`/usr/include/x86_64-linux-gnu/asm/unistd_64.h`.
 
 ## Assembling
 

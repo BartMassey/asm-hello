@@ -32,8 +32,8 @@ _start:
         # to stop our process running.
 
 	# System call number.
-        movq    $1, %rax
+        movq    $60, %rax
 	# Exit status argument.
-        movq    $0, %rbx
+        movq    $0, %rdi
 	# Make a system call.
-        int     $0x80
+        syscall
