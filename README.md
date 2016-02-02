@@ -107,13 +107,15 @@ return normally instead of exiting.
 
 ## References
 
+* [Wikibooks X86-64 Assembly Guide (great!)](http://en.wikibooks.org/wiki/X86_Assembly)
+
 * [Wikipedia on calling conventions](http://en.wikipedia.org/wiki/X86_calling_conventions#System_V_AMD64_ABI)
 
 * [Stack Overflow on system calls](http://stackoverflow.com/a/2538212/364875)
 
 * [Gnu Assembler](http://tigcc.ticalc.org/doc/gnuasm.html)
 
-* [CMU Assembly Programming handout](https://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf)
+* [CMU Assembly Programming handout](http://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf)
 
 * [Assembly Debugging with GDB](http://dbp-consulting.com/tutorials/debugging/basicAsmDebuggingGDB.html)
 
